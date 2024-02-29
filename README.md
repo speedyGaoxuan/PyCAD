@@ -12,3 +12,11 @@ It will support three modes:
 
 目前正在开发中，敬请期待
 Currently under development, stay tuned!
+
+由于本人仍在初中且英语水平与编程水平都不佳，
+项目质量可能无法做到完美
+如果你有意帮助我，请联系我
+
+As I am still in junior high school and my English and programming skills are not good, 
+the quality of the project may not be perfect!
+If you are interested in helping me, please contact me
