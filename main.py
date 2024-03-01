@@ -1,13 +1,14 @@
 # 基于pygame的图形化CAD编辑器
 # made by Gaoxuan
 
-import pygame, sys, time
+import pygame, sys
 from pygame.locals import *
+
 
 mainwindow = pygame.display.set_mode((1600, 900), pygame.RESIZABLE, 32)
 pygame.display.set_caption('PyCAD')
-# icon = pygame.image.load('./img/icon.png')
-# pygame.display.set_icon(icon)
+icon = pygame.image.load('./resources/icon.png')
+pygame.display.set_icon(icon)
 
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
